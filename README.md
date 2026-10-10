@@ -1,33 +1,21 @@
 <div align="center">
-  <img src="assets/icons/python.svg" alt="Python" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/javascript.svg" alt="JavaScript" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/html.svg" alt="HTML" width="52" height="52" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/css.svg" alt="CSS" width="52" height="52" />
-  <br />
-  <sub><b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>HTML</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>CSS</b></sub>
+  <h1>itsmarcos</h1>
+  <img src="assets/profile-banner.png" alt="Ilustração transparente de uma pessoa desenvolvendo software com IA" width="100%" />
 </div>
 
-<h1 align="center">itsmarcos</h1>
+### O que eu construo
 
-<p align="center">
-  <strong>ESPECIALISTA EM DESENVOLVIMENTO COM IA</strong><br />
-  Building practical software with Python and the web.
-</p>
+| Linguagem | Conexão com o que eu construo |
+| --- | --- |
+| <img src="assets/icons/python.svg" alt="Python" width="32" height="32" /> **Python** | Sistemas de IA, automação local e ferramentas práticas. |
+| <img src="assets/icons/javascript.svg" alt="JavaScript" width="32" height="32" /> **JavaScript** | Interfaces web e experiências interativas. |
+| <img src="assets/icons/html.svg" alt="HTML" width="32" height="32" /> **HTML** | Estrutura clara para produtos e ferramentas na web. |
+| <img src="assets/icons/css.svg" alt="CSS" width="32" height="32" /> **CSS** | Interfaces cuidadas, legíveis e funcionais. |
 
-I create useful tools where AI meets reliable software: local automation, intelligent systems, model evaluation, and focused web interfaces.
+### Projetos selecionados
 
-### What I build
+- [Nexo](https://github.com/marcosbuilds/nexo) é um trabalhador digital público para contexto, memória, decisões e ação.
 
-- AI systems and digital workers
-- Local automation and developer tools
-- Model evaluation and practical experimentation
-- Clear, purposeful web interfaces
+### Foco
 
-### Selected projects
-
-- [Nexo](https://github.com/marcosbuilds/nexo) is a public digital worker for context, memory, decisions, and action.
-- [Portfolio](https://marcosbuilds.github.io/Portfolio/) is my personal web project.
-
-### Core stack
-
-Python · JavaScript · HTML · CSS
+IA aplicada · automação local · avaliação de modelos · interfaces web
