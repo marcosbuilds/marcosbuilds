@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/python.png" alt="Python" width="48" />
-  <img src="./assets/javascript.png" alt="JavaScript" width="48" />
-  <img src="./assets/html.png" alt="HTML" width="48" />
-  <img src="./assets/css.png" alt="CSS" width="48" />
+  <img src="./python.png" alt="Python" width="48" />
+  <img src="./javascript.png" alt="JavaScript" width="48" />
+  <img src="./html.png" alt="HTML" width="48" />
+  <img src="./css.png" alt="CSS" width="48" />
 </div>
 
 <h1 align="center">itsmarcos</h1>
