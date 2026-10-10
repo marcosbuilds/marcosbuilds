@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/icons/python.svg" alt="Python" width="52" height="52" />&nbsp;&nbsp;&nbsp;
+  <img src="python.svg" alt="Python" width="52" height="52" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/javascript.svg" alt="JavaScript" width="52" height="52" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/html.svg" alt="HTML" width="52" height="52" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/css.svg" alt="CSS" width="52" height="52" />
