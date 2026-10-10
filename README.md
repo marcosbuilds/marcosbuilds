@@ -1,25 +1,23 @@
 <div align="center">
-  <img src="./python.png" alt="Python" width="48" />
-  <img src="./javascript.png" alt="JavaScript" width="48" />
-  <img src="./html.png" alt="HTML" width="48" />
-  <img src="./css.png" alt="CSS" width="48" />
+  <img src="./assets/icons/python.svg" alt="Python" width="52" height="52" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/javascript.svg" alt="JavaScript" width="52" height="52" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/html.svg" alt="HTML" width="52" height="52" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/css.svg" alt="CSS" width="52" height="52" />
+  <br />
+  <sub><b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>HTML</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>CSS</b></sub>
 </div>
 
 <h1 align="center">itsmarcos</h1>
 
-<p align="center">Building practical tools with Python and the web.</p>
+<p align="center">I build practical tools with Python and the web.</p>
 
-I work on local automation, AI systems, model evaluation, and web interfaces. Python is the main language across my repositories, with HTML, JavaScript, and CSS covering the frontend work.
+<p align="center">Local automation, AI systems, model evaluation, and web interfaces.</p>
 
 ## Projects
 
-- [Nexo](https://github.com/marcosbuilds/nexo) is a public digital worker focused on context, memory, decisions, and action.
-- [Portfolio](https://marcosbuilds.github.io/Portfolio/) is my personal web project.
+- [Nexo](https://github.com/marcosbuilds/nexo) is a public digital worker for context, memory, decisions, and action.
+- [Portfolio](https://marcosbuilds.github.io/Portfolio/) is my personal web project. The source code is private.
 
 ## Languages
 
-Python is the main language in my repositories. I also work with HTML, JavaScript, and CSS for web interfaces.
-
-## Credits
-
-The icons in this README are from [Flaticon](https://www.flaticon.com/) and credited to Magnific: [Python](https://www.flaticon.com/free-icon/python_919852), [JavaScript](https://www.flaticon.com/free-icon/javascript_919828), [HTML](https://www.flaticon.com/free-icon/html_186320), and [CSS](https://www.flaticon.com/free-icon/css_4516889).
+Python is the language I use most across my repositories. I also work with HTML, JavaScript, and CSS for web interfaces.
