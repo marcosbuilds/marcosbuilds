@@ -9,10 +9,10 @@
 
 | Linguagem | Conexão com o que eu construo |
 | --- | --- |
-| <img src="assets/icons/python.png" alt="Python" width="32" height="32" /> **Python** | Sistemas de IA, automação local e ferramentas práticas. |
-| <img src="assets/icons/javascript.svg" alt="JavaScript" width="32" height="32" /> **JavaScript** | Interfaces web e experiências interativas. |
-| <img src="assets/icons/html.svg" alt="HTML" width="32" height="32" /> **HTML** | Estrutura clara para produtos e ferramentas na web. |
-| <img src="assets/icons/css.svg" alt="CSS" width="32" height="32" /> **CSS** | Interfaces cuidadas, legíveis e funcionais. |
+| <img src="assets/icons/python.png" alt="Python" width="32" height="32" /> | Sistemas de IA, automação local e ferramentas práticas. |
+| <img src="assets/icons/javascript.svg" alt="JavaScript" width="32" height="32" /> | Interfaces web e experiências interativas. |
+| <img src="assets/icons/html.svg" alt="HTML" width="32" height="32" /> | Estrutura clara para produtos e ferramentas na web. |
+| <img src="assets/icons/css.svg" alt="CSS" width="32" height="32" /> | Interfaces cuidadas, legíveis e funcionais. |
 
 
 ### Projetos selecionados
